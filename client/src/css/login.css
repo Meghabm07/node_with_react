@@ -1,0 +1,8 @@
+.offset__border {
+    outline: 3px solid #58585836;
+    outline-offset: 30px;
+}
+
+.mt__10 {
+    margin-top: 100px;
+}
